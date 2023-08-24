@@ -1,0 +1,27 @@
+.caja {
+    background-color: rgb(32, 130, 221);
+    border-color: gray;
+    border-style: solid;
+    border: 30px;
+    border-radius: 15px;
+    padding: 25px;
+}
+
+.caja input{
+    border-radius: 15px;
+    border: 0px;
+}
+
+.caja button{
+    border-radius: 10px;
+    border-style: solid;
+    border: 10px;
+    border-color: black;
+    color: white;
+    margin: 4px;
+}
+
+button :hover{
+    color: black;
+    background-color: white;
+}
